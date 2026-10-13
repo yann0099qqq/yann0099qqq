@@ -13,11 +13,10 @@
 </p>
 
 </div>
- https://portfolio-kappa-tawny-97.vercel.app/
 
 ---
 
-## `01` — Sobre mim
+## `01` — Sobre mim 
 
 Sou graduado em **Análise e Desenvolvimento de Sistemas pela Universidade Estadual da Paraíba (UEPB)** e tenho interesse em desenvolver aplicações web, APIs, soluções com dados e sistemas que resolvam problemas reais.
 
@@ -27,6 +26,8 @@ Minha experiência acadêmica envolve integração entre front-end e back-end, o
 - **Também exploro:** Ciência de Dados, Machine Learning e IA
 - **Base técnica:** JavaScript, Node.js, Express, PostgreSQL e Python
 - **Objetivo:** contribuir com projetos relevantes e continuar crescendo na área de tecnologia
+
+portfólio: https://portfolio-kappa-tawny-97.vercel.app/
 
 ## `02` — Stack tecnológica
 
